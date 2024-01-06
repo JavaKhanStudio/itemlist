@@ -1,31 +1,7 @@
 [
   {
-    "author": "VAMV",
-    "name": "Maru Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "PrivateGER",
-    "name": "[1.4] Nukes",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ELIF",
     "name": "[ELIF] SRTS - Helicopters",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Derek Bickley",
-    "name": "[JAIL] Prison Bed",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Derek Bickley",
-    "name": "[JAIL] Prison Walls",
     "steamId": null,
     "version": null
   },
@@ -115,7 +91,7 @@
   },
   {
     "author": "tikubonn",
-    "name": "DontBlockDoor",
+    "name": "Don't Block Door",
     "steamId": null,
     "version": null
   },
@@ -198,12 +174,6 @@
     "version": null
   },
   {
-    "author": "Sepphoris and Azarae",
-    "name": "Metaflora",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Haplo",
     "name": "Misc. Robots",
     "steamId": null,
@@ -240,30 +210,6 @@
     "version": null
   },
   {
-    "author": "Diana(Kitty)",
-    "name": "Orassans",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "pphhyy",
-    "name": "pphhyy's Demigryphs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Prisoner Arena (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Extinct Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
     "steamId": null,
@@ -288,12 +234,6 @@
     "version": null
   },
   {
-    "author": "PrinceOfPluto",
-    "name": "SRTS Trains",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Linkolas",
     "name": "Stabilize",
     "steamId": null,
@@ -302,12 +242,6 @@
   {
     "author": "AKRI",
     "name": "Star Crafters Armory",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CatCraftYT",
-    "name": "Stargates!",
     "steamId": null,
     "version": null
   },
@@ -326,6 +260,12 @@
   {
     "author": "Kikohi and Oskar Potocki",
     "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
     "version": null
   },
@@ -354,18 +294,6 @@
     "version": null
   },
   {
-    "author": "Nephlite and Maxim",
-    "name": "Utility Columns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SickBoyWi",
-    "name": "Rimhammer - Steam Tank",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "MRGames",
     "name": "Removes Tainted Clothes",
     "steamId": null,
@@ -374,12 +302,6 @@
   {
     "author": "Hatti",
     "name": "QualitySurgeon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
     "steamId": null,
     "version": null
   },
@@ -414,14 +336,74 @@
     "version": null
   },
   {
-    "author": "xrushha",
-    "name": "Anima Gear",
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Seti, Magenta_Ivy and Victor",
-    "name": "Anima Bionics - Forked",
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Citadel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Extend the Cat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] V.O.I.D. Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Buffsboy474",
+    "name": "Warcaskets: Adeptus Astartes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Spacer Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Additional Outposts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "elStrages",
+    "name": "Cybernetic Storm",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
     "steamId": null,
     "version": null
   }
