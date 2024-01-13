@@ -18306,18 +18306,6 @@
 		"category": "Items",
 		"defname": "ZygolophodonTusk"
 	},
-	{
-		"abr": "달비단",
-		"price": 20,
-		"category": "Textiles",
-		"defname": "Moonsilk"
-	},
-	{
-		"abr": "생체공학래비꼬리",
-		"price": 1717,
-		"category": "Bionic",
-		"defname": "RB_BionicTail"
-	},
 	],
 	"total": 3060
 }
