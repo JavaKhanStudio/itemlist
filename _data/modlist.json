@@ -1,17 +1,5 @@
 [
   {
-    "author": "ELIF",
-    "name": "[ELIF] SRTS - Helicopters",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Furnishing",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Animal Equipment",
     "steamId": null,
@@ -24,44 +12,26 @@
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Boreal",
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Medicines",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Odeum",
-    "name": "BiomesKit",
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
     "steamId": null,
     "version": null
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons",
+    "author": "pphhyy",
+    "name": "pphhyy's Demigryphs",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Mythic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zeitloser and Erin",
-    "name": "Birds Beyond: Temperate Forest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jellypowered",
-    "name": "Caravan Gear",
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
     "steamId": null,
     "version": null
   },
@@ -78,12 +48,6 @@
     "version": null
   },
   {
-    "author": "Freefolk",
-    "name": "Combat Bionics",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Jellypowered",
     "name": "Craftsmanship",
     "steamId": null,
@@ -92,12 +56,6 @@
   {
     "author": "tikubonn",
     "name": "Don't Block Door",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
     "steamId": null,
     "version": null
   },
@@ -132,20 +90,8 @@
     "version": null
   },
   {
-    "author": "Xavior",
-    "name": "Glitter Tech",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Smuffle",
     "name": "Harvest Organs Post Mortem",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
@@ -162,50 +108,8 @@
     "version": null
   },
   {
-    "author": "Elseud",
-    "name": "Machines of War",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ThePatchWorkHoax",
-    "name": "Melee Psycasts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Waffel F.",
-    "name": "Moosesian race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "More Sculpture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
-    "name": "Music Expanded Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race",
     "steamId": null,
     "version": null
   },
@@ -240,38 +144,8 @@
     "version": null
   },
   {
-    "author": "AKRI",
-    "name": "Star Crafters Armory",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha and SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Legodude17",
     "name": "Vanilla Backstories Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Vanilla Genetics Expanded - More Lab Stuff",
     "steamId": null,
     "version": null
   },
@@ -282,14 +156,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Metalocif",
-    "name": "Warcasket Persona Weapons",
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
     "steamId": null,
     "version": null
   },
@@ -312,20 +180,8 @@
     "version": null
   },
   {
-    "author": "AobaKuma",
-    "name": "Radioisotope Thermoelectric Generator",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "kathanon",
     "name": "Float Sub-Menus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ushanka",
-    "name": "Ushankas Luciferium Expansion",
     "steamId": null,
     "version": null
   },
@@ -336,50 +192,8 @@
     "version": null
   },
   {
-    "author": "AobaKuma",
-    "name": "Fortifications - Industrial",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortification Industrial - Citadel",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bodlosh",
-    "name": "WeaponStats",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Udon",
     "name": "Extend the Cat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] V.O.I.D. Storyteller",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Buffsboy474",
-    "name": "Warcaskets: Adeptus Astartes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "explodoboy",
-    "name": "Ambition of the Cosmic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Spacer Furniture",
     "steamId": null,
     "version": null
   },
@@ -390,20 +204,206 @@
     "version": null
   },
   {
-    "author": "elStrages",
-    "name": "Cybernetic Storm",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Alestria",
     "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Ancient Complex Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zeitloser and Erin",
+    "name": "Birds Beyond: Temperate Forest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval - Material",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shenanigans",
+    "name": "Medieval Backstories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Relic Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madman666",
+    "name": "Medieval Madness: Tools of the Trade",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Medieval Overhaul Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogam",
+    "name": "Medieval Overhaul: Arcane Archaeologists",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arisher",
+    "name": "Medievel Tailor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]Dragon's Descent: Void Dwellers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Gear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti, Magenta_Ivy and Victor",
+    "name": "Anima Bionics - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Questing Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SickBoyWi",
+    "name": "Rimhammer - Steam Tank",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "koni",
+    "name": "Ancient Rim - Core (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "koni",
+    "name": "Ancient Rim - SPQRim (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Medieval deathrest coffin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Canon",
+    "name": "Crowns and Regalia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign",
+    "name": "Orc Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign",
+    "name": "Rimfairies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign",
+    "name": "Rimfairies Warcrime Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Medieval Melee Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Domi",
+    "name": "More Medieval Helms and Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Keshash",
+    "name": "Crypto Bionics for Rimedieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RE6AL",
+    "name": "Absolute Legends: Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Rare Resources",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hokum",
+    "name": "Filthy Orc Invasion (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tr.Vi",
+    "name": "Medieval Vehicles: War Wagon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RangelX97",
+    "name": "RX97 Medieval Vehicle: Cammel",
     "steamId": null,
     "version": null
   }
