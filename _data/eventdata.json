@@ -257,8 +257,8 @@
   },
   "herdmigration": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
@@ -535,7 +535,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "oupsidaysi": {
+  "reviveall": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -599,7 +599,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "SaveCanada": {
+  "rescueme": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
