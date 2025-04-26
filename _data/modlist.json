@@ -1,19 +1,31 @@
 [
   {
+    "author": "Chicken Plucker",
+    "name": "[RH2] V.O.I.D. Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RE6AL",
+    "name": "Absolute Legends: Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Aelflead Wayne",
     "name": "Ancient Mech Armors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "RelaxedOtter",
-    "name": "Better Mechanoid Loot (continued)",
+    "author": "VAMV",
+    "name": "Maru Race",
     "steamId": null,
     "version": null
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons",
+    "author": "AludisNHG",
+    "name": "Archotech Race",
     "steamId": null,
     "version": null
   },
@@ -26,6 +38,78 @@
   {
     "author": "Lennoxicon",
     "name": "Biotech Expansion - Mythic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Float Sub-Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Categorized Bill Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Boreal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Ancient Complex Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Citadel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aoba",
+    "name": "Fortification Industrial -Nuclear Dawn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Floors Are (Almost) Worthless",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval - Material",
     "steamId": null,
     "version": null
   },
@@ -48,6 +132,12 @@
     "version": null
   },
   {
+    "author": "Erin",
+    "name": "Erin's Hairstyles 2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Elseud",
     "name": "Machines of War",
     "steamId": null,
@@ -56,6 +146,12 @@
   {
     "author": "Windward'Snow",
     "name": "Mechanitor's Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
     "steamId": null,
     "version": null
   },
@@ -72,8 +168,8 @@
     "version": null
   },
   {
-    "author": "VAMV",
-    "name": "Maru Race",
+    "author": "pphhyy",
+    "name": "pphhyy's Demigryphs",
     "steamId": null,
     "version": null
   },
@@ -84,20 +180,8 @@
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Boreal",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "MRGames",
     "name": "Removes Tainted Clothes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SickBoyWi",
-    "name": "Rimhammer - Steam Tank",
     "steamId": null,
     "version": null
   },
@@ -108,14 +192,14 @@
     "version": null
   },
   {
-    "author": "dhultgren",
-    "name": "Smarter Construction",
+    "author": "Spidercamp",
+    "name": "Spidercamp's Dog Pack (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Linkolas",
-    "name": "Stabilize",
+    "author": "AobaKuma",
+    "name": "Radioisotope Thermoelectric Generator",
     "steamId": null,
     "version": null
   },
@@ -144,14 +228,14 @@
     "version": null
   },
   {
-    "author": "these people",
-    "name": "Vampire Thralls",
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
     "version": null
   },
@@ -162,122 +246,80 @@
     "version": null
   },
   {
-    "author": "Eagle0600",
-    "name": "Expandable Plants (Continued)",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Reel",
-    "name": "Winter Taiga Biome",
+    "author": "Linkolas",
+    "name": "Stabilize",
     "steamId": null,
     "version": null
   },
   {
-    "author": "bodlosh",
-    "name": "WeaponStats",
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Animals Expanded — Royal Animals",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Chicken Plucker",
-    "name": "[RH2] V.O.I.D. Storyteller",
+    "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
+    "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
   },
   {
-    "author": "RE6AL",
-    "name": "Absolute Legends: Hair",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ren7z",
-    "name": "Clean Textures",
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Ancient Complex Loot",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Chris",
-    "name": "Cuter Biotech Cat/Dog Ear Replacer",
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Udon",
-    "name": "Extend the Cat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "WalterHawkwood",
-    "name": "Floors Are (Almost) Worthless",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Industrial",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortification Industrial - Citadel",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "pphhyy",
-    "name": "pphhyy's Demigryphs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Hair pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Legodude17",
-    "name": "Vanilla Backstories Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrHydralisk",
-    "name": "Vanilla Outposts Expanded: Additional Outposts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
-    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Genetics Expanded - More Lab Stuff",
     "steamId": null,
     "version": null
   },
   {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Persona Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Domi",
+    "name": "More Medieval Helms and Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Samael Gray",
+    "name": "Paramount Combat Armaments",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mute",
+    "name": "Psychic Sensitivity Affects More (VPE)",
     "steamId": null,
     "version": null
   }
